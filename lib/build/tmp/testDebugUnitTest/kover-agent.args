@@ -1,4 +1,0 @@
-report.file=/Users/bsathya/Work/kotlinx-kover/kover-gradle-plugin/examples/android/multiproject/lib/build/kover/bin-reports/testDebugUnitTest.ic
-exclude=android.*
-exclude=com.android.*
-exclude=jdk.internal.*
